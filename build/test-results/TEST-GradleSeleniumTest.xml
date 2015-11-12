@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GradleSeleniumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-11-12T18:31:45" hostname="ilegra-vilson" time="6.036">
+<testsuite name="GradleSeleniumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-11-12T18:41:17" hostname="ilegra-vilson" time="7.451">
   <properties/>
-  <testcase name="testeGradleSelenium" classname="GradleSeleniumTest" time="6.036"/>
+  <testcase name="testeGradleSelenium" classname="GradleSeleniumTest" time="7.451"/>
   <system-out><![CDATA[Google
 GRADLE SUCCESS
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 2.19.346067 (6abd8652f8bc7a1d825962003ac88ec6a37a82f1) on port 10899
+  <system-err><![CDATA[Starting ChromeDriver 2.19.346067 (6abd8652f8bc7a1d825962003ac88ec6a37a82f1) on port 7049
 Only local connections are allowed.
 ]]></system-err>
 </testsuite>
