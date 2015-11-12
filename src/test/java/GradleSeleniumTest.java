@@ -12,6 +12,7 @@ public class GradleSeleniumTest {
     public void testeGradleSelenium(){
         driver = new ChromeDriver();
         driver.get("http://google.com");
+        System.out.println(driver.getTitle());
         System.out.println("GRADLE SUCCESS");
         driver.quit();
     }

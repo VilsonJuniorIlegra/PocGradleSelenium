@@ -1,5 +1,7 @@
-build/
-.idea/
+build
+.idea
 .gradle
-.nb-gradle/
+gradle
 gradleSeleniumTest.iml
+gradlew
+gradlew.bat
